@@ -4,4 +4,4 @@ const Forms = () => {
     )
 }
 
-export default Forms;
+export default Forms

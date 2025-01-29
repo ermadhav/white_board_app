@@ -1,5 +1,5 @@
 
-import Forms from "./components/forms";
+import Forms from "./components/Forms";
 import './App.css'
 
 const App = () => {
