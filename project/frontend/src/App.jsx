@@ -1,13 +1,15 @@
+
+import Forms from "./components/forms";
 import './App.css'
 
 const App = () => {
   return (
     <>
       <div>
-        <h1>Hello World</h1>
+        <Forms />
       </div>
     </>
-  )
-}
+  );
+};
 
 export default App
